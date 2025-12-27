@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+## 2025
+
+* [A targeted DNA methylation method for detecting gastrointestinal cancer in circulating cell-free DNA](https://www.sciencedirect.com/science/article/pii/S2589004225026033)<br>Zhaoyu Jiang\*, Yuqing Guo\*, Yongqu Lu\*, **Kun Qian**\*, Xiaomeng Liu, Siyi Lu, Jie Ren, Fuchou Tang, Wei Fu, Lu Wen, Xin Zhou<br> *iScience*, 2025
+
+  We developed tMCTA-seq, a cost-effective targeted DNA methylation method for simultaneous detection and differentiation of colorectal and gastric cancers. By integrating a universal nested primer design with an ensemble machine learning framework, we achieved high diagnostic performance across multiple cancer stages in clinical cfDNA samples.
+
 ## 2024
 * [Structure-preserved integration of scRNA-seq data using heterogeneous graph neural network](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbae538/7833674)<br>Xun Zhang\*, **Kun Qian**\*, Hongwei Li<br>*Briefings in Bioinformatics*, 2024 
 
@@ -17,7 +23,7 @@ author_profile: true
   We introduce SpaHDmap, an interpretable dimension reduction framework that enhances spatial resolution by integrating ST gene expression with high-resolution histology images. SpaHDmap incorporates non-negative matrix factorization into a multimodal fusion encoder-decoder architecture, enabling the identification of interpretable, high-resolution embeddings.
 
 ## 2023
-* [scAce: an adaptive embedding and clustering method for single-cell gene expression data](https://doi.org/10.1093/bioinformatics/btac348)<br>
+* [scAce: an adaptive embedding and clustering method for single-cell gene expression data](https://doi.org/10.1093/bioinformatics/btad546)<br>
   Xinwei He\*, **Kun Qian**\*, Ziqian Wang, Shirou Zeng, Hongwei Li, Wei Vivian Li<br>
   *Bioinformatics*, 2023
   

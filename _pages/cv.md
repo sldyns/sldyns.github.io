@@ -48,6 +48,7 @@ Languages
 Awards
 ======
 
+* 2025-2026 BICMR Mathematical Award for Graduate Students, 2025
 * Best Paper Award at the RECOMB 2022 conference, 2022
 * National Scholarship for Postgraduate, 2022
 * First Prize in China Post-Graduate Mathematical Contest in Modeling, 2021
