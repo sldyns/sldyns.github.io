@@ -4,6 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+## 2026
+
+
+* [The interpretable multimodal dimension reduction framework SpaHDmap enhances resolution in spatial transcriptomics](https://www.nature.com/articles/s41556-025-01838-z)<br>
+  Junjie Tang\*, Zihao Chen\*, **Kun Qian**\*, Siyuan Huang, Yang He, Shenyi Yin, Xinyu He, Buqing Ye, Yan Zhuang, Hongxue Meng, Jianzhong Jeff Xi, Ruibin Xi<br>
+  *bioRxiv*, 2024
+  
+  We introduce SpaHDmap, an interpretable dimension reduction framework that enhances spatial resolution by integrating ST gene expression with high-resolution histology images. SpaHDmap incorporates non-negative matrix factorization into a multimodal fusion encoder-decoder architecture, enabling the identification of interpretable, high-resolution embeddings.
 
 ## 2025
 
@@ -15,12 +23,6 @@ author_profile: true
 * [Structure-preserved integration of scRNA-seq data using heterogeneous graph neural network](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbae538/7833674)<br>Xun Zhang\*, **Kun Qian**\*, Hongwei Li<br>*Briefings in Bioinformatics*, 2024 
 
   By establishing a heterogeneous graph that represents the interactions between multiple batches of cells and genes, and combining a heterogeneous graph neural network with contrastive learning, we proposed a structure-preserved scRNA-seq data integration approach scHetG.
-
-* [SpaHDmap: Interpretable high-resolution dimension reduction of spatial transcriptomics data](https://www.biorxiv.org/content/10.1101/2024.09.12.612666v3)<br>
-  Junjie Tang\*, Zihao Chen\*, **Kun Qian**\*, Siyuan Huang, Yang He, Shenyi Yin, Xinyu He, Buqing Ye, Yan Zhuang, Hongxue Meng, Jianzhong Jeff Xi, Ruibin Xi<br>
-  *bioRxiv*, 2024
-  
-  We introduce SpaHDmap, an interpretable dimension reduction framework that enhances spatial resolution by integrating ST gene expression with high-resolution histology images. SpaHDmap incorporates non-negative matrix factorization into a multimodal fusion encoder-decoder architecture, enabling the identification of interpretable, high-resolution embeddings.
 
 ## 2023
 * [scAce: an adaptive embedding and clustering method for single-cell gene expression data](https://doi.org/10.1093/bioinformatics/btad546)<br>
