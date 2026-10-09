@@ -1,0 +1,112 @@
+[
+  {
+    "year": 2026,
+    "title": "Protocol for detecting cancer in blood using targeted DNA methylation",
+    "url": "https://www.cell.com/star-protocols/fulltext/S2666-1667(26)00444-2",
+    "authors": "Zhaoyu Jiang*, Yuqing Guo*, Yongqu Lu*, Kun Qian*, Renjie Luo, Xiaomeng Liu, Jie Ren, Wei Fu, Lu Wen, Xin Zhou",
+    "journal": "STAR Protocols",
+    "description": {
+      "en": "We present a step-by-step tMCTA-seq workflow for detecting and distinguishing colorectal and gastric cancers from plasma cell-free DNA. The protocol covers sample preparation, targeted methylation sequencing, and computational analysis, with guidance for adapting the workflow to other cancer types.",
+      "zh": "给出 tMCTA-seq 的完整实验与分析流程，包括样本制备、靶向甲基化测序和数据分析。该流程用于从血浆游离 DNA 中检测并区分结直肠癌和胃癌，也介绍了如何调整流程以用于其他癌种。"
+    }
+  },
+  {
+    "year": 2026,
+    "title": "Leveraging Spot–Gene Heterogeneous Graphs for Unified Spatially Resolved Transcriptomics Domain Detection on Single-Slice and Multi-Slice Data",
+    "url": "https://www.mdpi.com/2073-4425/17/3/310",
+    "authors": "Lina Xia, Zhenyue Ding, Xun Zhang, Kun Qian, Hongwei Li",
+    "journal": "Genes",
+    "description": {
+      "en": "We introduce stHGCL, a framework that combines a spot–gene heterogeneous graph with spatial graph learning and contrastive learning to identify spatial domains. It supports both individual tissue slices and joint analysis of multiple slices, including datasets without prior spatial alignment.",
+      "zh": "stHGCL 结合空间点位—基因异质图、空间图学习和对比学习，识别空间转录组中的组织区域。既可分析单张切片，也可联合分析多张切片，包括未预先完成空间对齐的切片。"
+    }
+  },
+  {
+    "year": 2026,
+    "title": "The interpretable multimodal dimension reduction framework SpaHDmap enhances resolution in spatial transcriptomics",
+    "url": "https://www.nature.com/articles/s41556-025-01838-z",
+    "authors": "Junjie Tang*, Zihao Chen*, Kun Qian*, Siyuan Huang, Yang He, Shenyi Yin, Xinyu He, Buqing Ye, Yan Zhuang, Hongxue Meng, Jianzhong Jeff Xi, Ruibin Xi",
+    "journal": "Nature Cell Biology",
+    "description": {
+      "en": "We introduce SpaHDmap, an interpretable dimension reduction framework that enhances spatial resolution by integrating ST gene expression with high-resolution histology images. SpaHDmap incorporates non-negative matrix factorization into a multimodal fusion encoder-decoder architecture, enabling the identification of interpretable, high-resolution embeddings.",
+      "zh": "SpaHDmap 将非负矩阵分解与多模态神经网络结合，整合空间转录组数据和组织学图像，获得可解释的高分辨率表征。"
+    }
+  },
+  {
+    "year": 2025,
+    "title": "A targeted DNA methylation method for detecting gastrointestinal cancer in circulating cell-free DNA",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2589004225026033",
+    "authors": "Zhaoyu Jiang*, Yuqing Guo*, Yongqu Lu*, Kun Qian*, Xiaomeng Liu, Siyi Lu, Jie Ren, Fuchou Tang, Wei Fu, Lu Wen, Xin Zhou",
+    "journal": "iScience",
+    "description": {
+      "en": "We developed tMCTA-seq, a cost-effective targeted DNA methylation method for simultaneous detection and differentiation of colorectal and gastric cancers. By integrating a universal nested primer design with an ensemble machine learning framework, we achieved high diagnostic performance across multiple cancer stages in clinical cfDNA samples.",
+      "zh": "开发靶向 DNA 甲基化方法 tMCTA-seq，结合通用巢式引物设计与集成机器学习，在临床游离 DNA 样本中检测并区分结直肠癌和胃癌。"
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Structure-preserved integration of scRNA-seq data using heterogeneous graph neural network",
+    "url": "https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbae538/7833674",
+    "authors": "Xun Zhang*, Kun Qian*, Hongwei Li",
+    "journal": "Briefings in Bioinformatics",
+    "description": {
+      "en": "By establishing a heterogeneous graph that represents the interactions between multiple batches of cells and genes, and combining a heterogeneous graph neural network with contrastive learning, we proposed a structure-preserved scRNA-seq data integration approach scHetG.",
+      "zh": "提出 scHetG，用异质图连接多个批次的细胞与基因，并结合异质图神经网络和对比学习，在整合单细胞 RNA 测序数据的同时保留生物学结构。"
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Spatial transcriptomics: a new frontier in cancer research",
+    "url": "https://link.springer.com/article/10.1007/s44272-024-00018-8",
+    "authors": "Siyuan Huang*, Linkun Ouyang*, Junjie Tang, Kun Qian, Xuanwei Chen, Zijie Xu, Jingsi Ming, Ruibin Xi",
+    "journal": "Clinical Cancer Bulletin",
+    "description": {
+      "en": "We review spatial transcriptomics technologies and their applications to tumor heterogeneity and the tumor microenvironment. The article also outlines computational analysis workflows, provides an accompanying analysis tutorial, and discusses opportunities for spatial multi-omics in cancer research.",
+      "zh": "综述空间转录组技术及其在肿瘤异质性与肿瘤微环境研究中的应用，梳理计算分析流程，提供分析教程，并讨论空间多组学在癌症研究中的发展方向。"
+    }
+  },
+  {
+    "year": 2024,
+    "title": "Integration of scRNA-seq data by disentangled representation learning with condition domain adaptation",
+    "url": "https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-024-05706-9",
+    "authors": "Renjing Liu*, Kun Qian*, Xinwei He, Hongwei Li",
+    "journal": "BMC Bioinformatics",
+    "description": {
+      "en": "To expedite the exploration of systematic disparities under various biological contexts, we propose a scRNA-seq integration method called scDisco, which involves a domain-adaptive decoupling representation learning strategy for the integration of dissimilar scRNA-seq data.",
+      "zh": "scDisco 结合解耦表征学习与条件域适应，整合不同生物条件下的单细胞 RNA 测序数据，帮助比较这些条件之间的差异。"
+    }
+  },
+  {
+    "year": 2024,
+    "title": "scBiG for representation learning of single-cell gene expression data based on bipartite graph embedding",
+    "url": "https://academic.oup.com/nargab/article/6/1/lqae004/7513703",
+    "authors": "Ting Li*, Kun Qian*, Xiang Wang, Wei Vivian Li, Hongwei Li",
+    "journal": "NAR Genomics and Bioinformatics",
+    "description": {
+      "en": "We introduce scBiG, a novel graph node embedding method designed for representation learning in scRNA-seq data. scBiG establishes a bipartite graph connecting cells and expressed genes, and then constructs a multilayer graph convolutional network to learn cell and gene embeddings.",
+      "zh": "scBiG 将细胞与其表达的基因连接成二部图，通过多层图卷积网络学习细胞和基因表征，用于分析单细胞基因表达数据。"
+    }
+  },
+  {
+    "year": 2023,
+    "title": "scAce: an adaptive embedding and clustering method for single-cell gene expression data",
+    "url": "https://doi.org/10.1093/bioinformatics/btad546",
+    "authors": "Xinwei He*, Kun Qian*, Ziqian Wang, Shirou Zeng, Hongwei Li, Wei Vivian Li",
+    "journal": "Bioinformatics",
+    "description": {
+      "en": "We propose an adaptive embedding and clustering method named scAce, which constructs a variational autoencoder to simultaneously learn cell embeddings and cluster assignments. In the scAce method, we develop an adaptive cluster merging approach which achieves improved clustering results without the need to estimate the number of clusters in advance.",
+      "zh": "scAce 使用变分自编码器学习细胞表征，并通过自适应簇合并更新聚类结果，无需事先估计簇的数量。"
+    }
+  },
+  {
+    "year": 2022,
+    "title": "scINSIGHT for interpreting single-cell gene expression from biologically heterogeneous data",
+    "url": "https://genomebiology.biomedcentral.com/articles/10.1186/s13059-022-02649-3",
+    "authors": "Kun Qian*, Shiwei Fu, Hongwei Li, Wei Vivian Li*",
+    "journal": "Genome Biology",
+    "description": {
+      "en": "Although different batch effect removal methods have been developed, none are suitable for heterogeneous single-cell samples coming from multiple biological conditions. We propose a method, scINSIGHT, to learn coordinated gene expression patterns that are common among, or specific to, different biological conditions, and identify cellular identities and processes across single-cell samples.",
+      "zh": "scINSIGHT 联合分析不同生物条件下的单细胞样本，区分共享和条件特异的基因表达模式，用于识别跨样本的细胞类型及相关生物过程。"
+    }
+  }
+]

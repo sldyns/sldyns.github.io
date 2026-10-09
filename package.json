@@ -1,0 +1,11 @@
+{
+  "name": "kun-qian-personal-site",
+  "private": true,
+  "type": "module",
+  "description": "A custom bilingual static website. No framework or third-party build dependencies.",
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs"
+  },
+  "engines": { "node": ">=22" }
+}
